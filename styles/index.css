@@ -1,0 +1,24 @@
+.p{
+    background-color: rgb(203, 169, 234);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.content{
+    display: flex;
+}
+main{
+    width: 70%;
+}
+aside{
+    width: 30%;
+}
+img{
+    border-radius: 10px;
+    border-color: black;
+    border: 2px solid;
+}
+.shapka{
+    background-color: rgb(107, 104, 104);
+}
+h2,h3,h5,.p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
