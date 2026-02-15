@@ -1,0 +1,14 @@
+ table {
+    width: 40%;
+    border-collapse: collapse;
+    border: 1px solid black;
+  }
+.c{
+    margin: 30px;
+}
+.p{
+    background-color: rgb(203, 169, 234);
+}
+.shapka{
+    background-color: rgb(107, 104, 104);
+}
