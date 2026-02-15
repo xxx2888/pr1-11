@@ -1,0 +1,31 @@
+.one{
+    border: 1px solid;
+    border-color: rgb(173, 173, 173);
+    color: rgb(173, 173, 173);
+    margin-left: 670px;
+    font-size: 30px;
+}
+.two{
+    border: 1px solid;
+    border-color: rgb(173, 173, 173);
+    margin-left: 670px;
+    font-size: 30px;
+}
+.three{
+    margin-left: 800px;
+    font-size: 30px;
+    background-color: rgb(210, 210, 138);
+}
+h2{
+    margin-left: 770px;
+    font-size: 50px;
+}
+.t{
+    margin-left: 800px;
+}
+.p{
+    background-color: rgb(203, 169, 234);
+}
+.shapka{
+    background-color: rgb(107, 104, 104);
+}
