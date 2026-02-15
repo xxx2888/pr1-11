@@ -1,0 +1,72 @@
+
+@font-face {
+    font-family: RobotoRegular;
+    src: url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+.t{
+    background-color: rgb(203, 169, 234);
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
+article{
+  width: 567.06px;
+  color: white;
+  padding: 72.31px 0 54.94px 67.3px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+article:nth-child(1){
+    background: linear-gradient(75.91deg, rgba(50, 34, 67, 0.8) 15.12%, rgba(50, 34, 67, 0) 95.53%), url("../img/pr10.2.1.png");
+    background-size: cover;
+}
+article:nth-child(2){
+    background: linear-gradient(75.91deg, rgba(50, 34, 67, 0.8) 15.12%, rgba(50, 34, 67, 0) 95.53%), url("../img/pr10.2.2.png");
+    background-size: cover;
+}
+article:nth-child(3){
+    background: linear-gradient(75.91deg, rgba(50, 34, 67, 0.8) 15.12%, rgba(50, 34, 67, 0) 95.53%), url("../img/pr10.2.3.png");
+    background-size: cover;
+}
+article:nth-child(4){
+    background: linear-gradient(75.91deg, rgba(50, 34, 67, 0.8) 15.12%, rgba(50, 34, 67, 0) 95.53%), url("../img/pr10.2.4.png");
+    background-size: cover;
+}
+article:nth-child(2n-1){
+    margin-right: 30px;
+}
+article h3, article button {
+    font-family: RobotoRegular;
+    text-transform: uppercase;
+}
+article p {
+    width: 310px;
+    font-family: 'Tahoma';
+    font-size: 16px;
+}
+article h3 {
+    font-size: 36px;
+    line-height: 42px;
+}
+article .price {
+    font-family: RobotoRegular;
+    font-size: 24px;
+}
+.price span {
+    font-size: 48px;
+    color: #df59ca;
+    font-weight: bold;
+}
+article button {
+    font-size: 18px;
+    border: 0;
+    background: #f26689;
+    padding: 19px 38px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+h3, p{
+    margin: 0;
+}

@@ -1,0 +1,47 @@
+.t{
+    background-color: rgb(203, 169, 234);
+}
+    .w {
+      max-width: 1000px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    .w h2 {
+      font-weight: 700;
+      font-size: 28px;
+      margin-bottom: 5px;
+    }
+    .w p.d {
+      font-size: 12px;
+      color: #737373;
+      margin-bottom: 40px;
+    }
+    .c {
+      display: grid;
+      grid-template-columns: repeat(3, 300px);
+      gap: 20px;
+    }
+    .r {
+      background: #fff;
+      border: 1px solid #ddd;
+      padding: 20px;
+      text-align: left;
+    }
+    .i {
+      font-size: 28px;
+    }
+    .i b{
+      font-weight: 700;
+      font-size: 14px;
+      color: #252B42;
+      margin-left: 10px;
+    }
+    .r p {
+      font-size: 12px;
+      color: #737373;
+      line-height: 1.4;
+    }
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #252B42;
+}
