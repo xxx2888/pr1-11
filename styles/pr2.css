@@ -1,0 +1,48 @@
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+}
+.one{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: x-large;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: medium;
+}
+.two{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: small;
+}
+mark{
+    background-color: rgb(220, 220, 220);
+}
+.top{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: rgb(189, 143, 200);
+    padding: 10px;
+    border-radius: 20px;
+}
+.w{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(115, 32, 193);
+}
+.p{
+    background-color: rgb(203, 169, 234);
+}
+.shapka{
+    background-color: rgb(107, 104, 104);
+}

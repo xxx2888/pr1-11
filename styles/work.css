@@ -1,0 +1,27 @@
+.p{
+    background-color: rgb(203, 169, 234);
+}
+.shapka{
+    background-color: rgb(107, 104, 104);
+}
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(203, 169, 234);
+}
+p,.r,.x{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.o{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px; 
+    margin-left: 130px;
+}
+table{
+    border-spacing: 200px 5px;
+}
