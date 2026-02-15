@@ -1,0 +1,35 @@
+.p{
+    background-color: rgb(203, 169, 234);
+}
+.shapka{
+    background-color: rgb(107, 104, 104);
+}
+img{
+    border-radius: 10px;
+    border-color: black;
+    border: 2px solid;
+    margin-left: 50px;
+}
+table {
+    width: 40%;
+    border-collapse: collapse;
+    border: 1px solid black;
+  }
+h3,h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.r{
+    border-radius: 10px;
+    border-color: black;
+    border: 2px solid;
+    margin-left: 200px;
+}
+h4{
+     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-small;
+}
+h5,.p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
