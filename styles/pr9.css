@@ -1,0 +1,102 @@
+.line{
+    padding: 0;
+}
+.line li{
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: rgb(192, 148, 233);
+    
+}
+.links a{
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    padding: 10px 5px;
+    color: gainsboro;
+    background-color: rgba(137, 43, 226, 0.815);
+    width: 140px;
+}
+.blocks{
+        padding: 0;
+}
+.blocks div{
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: rgb(192, 148, 233);
+}
+.blocks .non{
+        display: none;
+}
+body{
+    background-color: gainsboro;
+}
+.links-markers a{
+    margin-bottom: 0px;
+    display: list-item;
+    text-decoration: none;
+    padding: 10px 5px;
+    color: gainsboro;
+    background-color: rgba(137, 43, 226, 0.815);
+    width: 140px;
+}
+.links-markers{
+    margin-top: 10px;
+}
+.t{
+    background-color: rgb(203, 169, 234);
+}
+.post1 .image {
+    display: block;
+    width: 200px;
+    height: 140px;
+    background-size: cover;
+    background-position: center;
+    border: 2px dashed;
+    border-color: red;
+    margin-top: 15px;
+    background-image: url(../img/pr9-sun.jpg);
+    float: left;
+    margin-right: 20px;
+    margin-top: 3px;
+
+}
+.post2 .image{
+    display: block;
+    width: 200px;
+    height: 140px;
+    background-size: cover;
+    background-position: center;
+    border: 2px dashed;
+    border-color: red;
+    margin-top: 15px;
+    background-image: url(../img/pr9-sun.jpg);
+    float: right;
+    margin-top: 3px;
+
+}
+.post1 div {    
+        line-height: 33px;
+    text-align: justify;
+    margin: 0;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 10px;
+}
+.post2 div{
+    line-height: 33px;
+    text-align: justify;
+    margin: 0;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.post1{
+    width: 1200px;
+    background-color: brown;
+}
+.post2{
+    width: 1200px;
+    background-color: brown;
+}
